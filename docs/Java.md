@@ -1,6 +1,7 @@
 # Java
 
 Some of the checks are common across programming languages.
+
 Checklist Item | Category
 -------------- | --------
 Classes should be small. Defined the number based on the domain | Classes
