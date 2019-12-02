@@ -56,5 +56,5 @@ Use Solution/Problem Domain Names | Meaningful Names
 
 ## Reference
 
-Code Complete - Steve McConnell
-[Oracle Guide](https://www.oracle.com/technetwork/java/seccodeguide-139067.html) - More details about most of the above can be found here.
+* Code Complete - Steve McConnell
+* [Oracle Guide](https://www.oracle.com/technetwork/java/seccodeguide-139067.html) - More details about most of the above can be found here.
