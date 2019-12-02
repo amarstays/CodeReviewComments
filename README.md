@@ -9,4 +9,4 @@ Please feel free to add new pages for languages not defined here.
 
 * [Java](./docs/Java.md)
 * [Javascript](./docs/JavaScript.md)
-* [Go](https://github.com/golang/go/wiki/CodeReviewComments) (Please [discuss](https://golang.org/issue/new?title=wiki%3A+CodeReviewComments+change&body=&labels=Documentation) with Google GO authors.
+* [Go](https://github.com/golang/go/wiki/CodeReviewComments) (Please [discuss](https://golang.org/issue/new?title=wiki%3A+CodeReviewComments+change&body=&labels=Documentation) with Google GO authors.)
