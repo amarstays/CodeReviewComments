@@ -1,6 +1,6 @@
 # Python
 
-Pythonic vs None Pythonic. Following are some important items for checklist.
+Pythonic vs None Pythonic. Following are some important items for the checklist.
 
 Checklist Item | Category
 -------------- | --------
