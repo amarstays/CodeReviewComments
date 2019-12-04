@@ -4,7 +4,6 @@ This page collects common comments made during reviews of code, so that a single
 
 This is a laundry list of common mistakes, not a comprehensive guide. The list may not include typical issues identified by code analysis tools like linting tools, [SonarQube rules](https://rules.sonarsource.com), [fbinfer](https://fbinfer.com) or [errorprone.info](http://errorprone.info).
 
-
 If your reviews are comprehensive and covered different perspectives than mentioned here, please feel free to continue the practices. You may raise an issue on this repository, if you feel those reviews checklist items are important to others as well.
 
 Please discuss any changes for existing checklist items before editing them here, even minor ones. Many people have different opinions and this is not the place for edit wars. Raise a PR all members in the project team will be notified immediately.
@@ -27,7 +26,7 @@ We do not discuss the use of common design principle for each programing paradig
 
 ## Unit Test Review
 
-Some generic unit test review comments are identified [Here](./docs/UnitTests.md).
+Some generic unit test review comments are identified [here](./docs/UnitTests.md).
 
 ## API Review
 

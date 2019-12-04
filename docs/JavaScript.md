@@ -2,6 +2,8 @@
 
 As javascript being a highly evolving language of the day different teams are suck with different capabilities (ES versions) and tools. We will try to list checks considering most recent ES versions and tag then with appropriate ES version.
 
+Any JS Developer / JS Reviewer mush go though Ref [6](#6) / [7](#7).
+
 Checklist Item | Category
 -------------- | --------
 ES6 - Use of arrow function to avoid .bind() or short hand function definition|Functional Programming
@@ -35,3 +37,5 @@ Any nice/useful library was used which is new|Library
 3. https://gist.github.com/addyosmani/1170518
 4. https://javascriptweblog.wordpress.com/2011/08/08/fixing-the-javascript-typeof-operator/
 5. https://addyosmani.com/blog/essential-js-namespacing/
+6. https://exploringjs.com/
+7. https://medium.com/ableneo/testable-javascript-functional-programming-pure-functions-756e049bfd4a
