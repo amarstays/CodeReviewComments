@@ -4,6 +4,7 @@ This page collects common comments made during reviews of code, so that a single
 
 This is a laundry list of common mistakes, not a comprehensive guide. The list may not include typical issues identified by code analysis tools like linting tools, [SonarQube rules](https://rules.sonarsource.com), [fbinfer](https://fbinfer.com) or [errorprone.info](http://errorprone.info).
 
+
 If your reviews are comprehensive and covered different perspectives than mentioned here, please feel free to continue the practices. You may raise an issue on this repository, if you feel those reviews checklist items are important to others as well.
 
 Please discuss any changes for existing checklist items before editing them here, even minor ones. Many people have different opinions and this is not the place for edit wars. Raise a PR all members in the project team will be notified immediately.
@@ -16,8 +17,17 @@ Please feel free to add new pages for languages not defined here.
 * [Java](./docs/Java.md)
 * [Java Concurrency Special](https://github.com/code-review-checklists/java-concurrency)
 * [Javascript](./docs/JavaScript.md)
+* [React](./docs/React.md)
 * [Python](https://pep8.org/)
 * [Go](https://github.com/golang/go/wiki/CodeReviewComments) (Please [discuss](https://golang.org/issue/new?title=wiki%3A+CodeReviewComments+change&body=&labels=Documentation) with Google GO authors.)
+
+## Code Design Review
+
+We do not discuss the use of common design principle for each programing paradigm in this context. But the reviewer should be able to apply design principle knowledge while a review. Some good design principle are SOLID, GoF, Removing Side Effects, language specific designs etc...
+
+## Unit Test Review
+
+Some generic unit test review comments are identified [Here](./docs/UnitTests.md).
 
 ## API Review
 
