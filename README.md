@@ -1,12 +1,12 @@
 # Code Review Comments
 
-This page collects common comments made during reviews of code, so that a single detailed explanation can be referred to by everyone. This is a good starting for new developers and experienced developers to start writing code or start reviewing code.
+This page collects common comments made during reviews of code, so that a single detailed explanation can be referred to by everyone. This is a good starting for both new developers and experienced developers. New developers can use this while development and reviewers can use this while code reviews.
 
-This is a laundry list of common mistakes, not a comprehensive style guide. The list may not include issues identified by code analysis tools like linting tools, [SonarQube rules](https://rules.sonarsource.com), [fbinfer](https://fbinfer.com) or [errorprone.info](http://errorprone.info).
+This is a laundry list of common mistakes, not a comprehensive guide. The list may not include typical issues identified by code analysis tools like linting tools, [SonarQube rules](https://rules.sonarsource.com), [fbinfer](https://fbinfer.com) or [errorprone.info](http://errorprone.info).
 
-If your reviews comprehensive covering different perspectives other than mentioned here, please feel free to continue the practices. You may raise an issue on this repository, if you feel those reviews items are important to others.
+If your reviews are comprehensive and covered different perspectives than mentioned here, please feel free to continue the practices. You may raise an issue on this repository, if you feel those reviews checklist items are important to others as well.
 
-Please discuss any changes for existing checklist before editing them, even minor ones. Many people have different opinions and this is not the place for edit wars. Raise a PR all members in the project team will be notified immediately.
+Please discuss any changes for existing checklist items before editing them here, even minor ones. Many people have different opinions and this is not the place for edit wars. Raise a PR all members in the project team will be notified immediately.
 
 ## Languages
 

@@ -9,7 +9,7 @@ Subclass built-in exception classes when more precise errors to be propagated up
 Python programs could be build as OOP or FP. Decide one paradigm to use base on the application|General Programming
 Run  loops over collections/enumerations over indexes|General Programming
 Use [List Comprehension](https://docs.python.org/3/tutorial/datastructures.html#list-comprehensions)|General Programming
-Use tuples and dicts over class with FP|General Programming
+Use `tuples` and `dicts` over `classes` with FP|General Programming
 Use [Named Tuples](https://docs.python.org/3/library/collections.html#collections.namedtuple) over tuples|General Programming
 use `try` `except` when handling resources instead of checking resource exists|General Programming
 Use [Simple Namespace](https://docs.python.org/3/library/types.html#types.SimpleNamespace) instead of classes when colliding variables exists for FP|General Programming
